@@ -30,3 +30,11 @@
 .screen-header__icons .fa-cog:hover{
     animation: rotateCog 1s linear infinite;
 }
+
+.screen-header__dot{
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    top: 50px;
+    right: 18px;
+}

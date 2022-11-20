@@ -15,19 +15,19 @@
 .friends-screen{
     padding: 0px var(--horizontal-space);
 }
-.friends-screen__channel{
+.friends-screen__subpart{
     margin-top: 25px;
     border-top:var(--main-border);
     padding-top: 15px;
 }
-.friends-screen__channel-header{
+.friends-screen__subpart-header{
     margin-bottom: 30px;
     display: flex;
     justify-content: space-between;
     color: rgba(0,0,0,0.5);
 }
 
-.friends-screen__channel .user-component{
+.friends-screen__subpart .user-component{
     margin-bottom: 20px;
 }
 
